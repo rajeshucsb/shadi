@@ -106,7 +106,7 @@ color:#F5EB67;
 
 a,a:visited
 {
-color:#E4CA10;
+color:#990000;
 text-decoration:none;
 font-weight:bold;
 }
@@ -132,7 +132,7 @@ font-weight:bold;
 	display: block;
 	text-align: center;
 	text-decoration: none;
-	color:#3C3504;
+	color:#990000;
 	font-weight: bold;
 	padding-top: 16px;
 	font-size: 17px;
@@ -154,10 +154,18 @@ text-align: center;
 p {text-align: left;}
 
 li.selmenu {
-	color : #B39311 !important;
+	color : #990000 !important;
 }
 
 #timeline {
 	width : 900px;
 	height: 423px;
+}
+
+div.sb li {
+	margin : 0.5em 0;
+}
+
+div.sb ul {
+	margin : 2em 0;
 }
