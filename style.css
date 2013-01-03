@@ -26,9 +26,13 @@ body {
   width: 940px;
 }
 
+h1.poem {
+	margin: 0 0 0 190px;
+}
+
 #mainpic h1
 {
-	position:absolute;
+position:absolute;
 text-align:right;
 font-size:30px;
 color:#AB970C;
@@ -151,4 +155,9 @@ p {text-align: left;}
 
 li.selmenu {
 	color : #B39311 !important;
+}
+
+#timeline {
+	width : 900px;
+	height: 423px;
 }
