@@ -27,7 +27,7 @@ body {
 }
 
 h1.poem {
-	margin: 0 0 0 190px;
+	margin: 0 0 0 60px;
 }
 
 #mainpic h1
@@ -185,4 +185,8 @@ div.sb ul {
 
 img.site {
 	width: 450px;
+}
+
+.left_img {
+	height : 365px;	
 }
